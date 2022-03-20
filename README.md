@@ -1,4 +1,4 @@
-# CPLEX---Utopia-City
+# CPLEX---
 
 CPLEX.MOD
 //KUMELER VE INDISLER
